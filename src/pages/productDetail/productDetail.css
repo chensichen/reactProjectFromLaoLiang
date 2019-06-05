@@ -1,0 +1,64 @@
+body{
+    background:white;
+}
+.productDetail{
+    padding: 0.6em;
+}
+.detailTitle{
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+.detailSubtitle{
+    font-size: 0.8em;
+    color: #999999;
+    line-height: 2em;
+    display: flex;
+    /*flex-direction: row;*/
+}
+.detailSubtitle span{
+    flex-direction: row;
+}
+.detailSubtitle span:first-child{
+    flex-basis:70%;
+}
+.detailSubtitle span:last-child{
+    flex-basis:30%;
+    text-align: right;
+}
+.detailPrice{
+    color: #D81E06;
+    font-size: 1.4em;
+    font-weight: bold;
+
+}
+/*规格参数列表样式*/
+.am-list-item{
+    /*height: 2em;*/
+    color: #666666;
+    min-height: 2em;
+    padding: 0 1em;
+}
+.am-list-item .am-list-line .am-list-extra{
+    flex-basis: 76%;
+    text-align: left;
+    font-size: 0.8em;
+}
+.am-list-item .am-list-line .am-list-content{
+    font-size: 0.8em;
+}
+/*视频样式*/
+.video-react .video-react-poster{
+    background-size: 100% 100% !important;
+}
+.video-react .video-react-big-play-button{
+    top: 40% !important;
+    left: 40% !important;
+}
+.detailImgWrap p img{
+    width: 100%!important;
+    position: relative;
+    display: flex;
+    margin-top: -1px;
+    flex-direction: column;
+}

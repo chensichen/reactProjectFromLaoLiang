@@ -1,0 +1,119 @@
+.orderFormStatus{
+    width: 100%;
+    padding: 1.2em 0.8em;
+    background: #D81E06;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+.orderFormPrimary{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0.5em;
+    background: #ffffff;
+}
+
+.orderPic{
+    display: inline-block;
+    width: 0.3em;
+    height: 1em;
+    background: #D81E06;
+    margin-right: 0.4em;
+}
+
+.orderPicName{
+    font-size: 1.2em;
+}
+
+.orderFormLeft{
+    padding: 0.5em;
+    font-weight: bold;
+    /*font-size: 0.8em;*/
+}
+
+.orderFormRight{
+    color:#999999;
+    padding-left: 0;
+}
+
+.orderFont{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #D81E06;
+}
+
+.orderDeliveryStatus{
+    background: #ffffff;
+    padding: 0.5em;
+}
+
+.locationIcon{
+    width: 1.2em;
+    height: 1.2em;
+    margin-right: 0.5em;
+    margin-top: 0.2em;
+    /*padding: 0 1em;*/
+}
+
+.orderDelivery p{
+    margin: 0.2em 0;
+}
+
+.orderAddress{
+    font-size: 1em;
+    margin-left: 1.5em!important;
+}
+
+.orderDeliveryInfo{
+    color:#169BD5;
+}
+
+.orderDeliveryTime{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.orderDeliveryName{
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-right: 0.8em;
+}
+.OrderFromMore{
+    margin-bottom: 50px;
+}
+.OrderFromMoreBtn{
+    padding: 0.8em 0;
+}
+.OrderFromMoreBtn span{
+    font-size: 0.8em;
+    color:#D81E06;
+}
+
+.orderAnimate{
+    overflow: hidden;
+}
+
+.orderMainGname {
+    overflow: hidden;
+    height: 3.4em;
+    /*text-overflow: ellipsis;*/
+    /*-o-text-overflow: ellipsis;*/
+    /*white-space: nowrap;*/
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+.orderMainGoods {
+    width: 60%;
+    height: 6em;
+    position: relative;
+}
+
+.orderMainPrice {
+    position: absolute;
+    bottom: 0em;
+    font-size: 1.2em;
+    color: #D81E06;
+    font-weight: bold;
+    display: inline-block;
+}

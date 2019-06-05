@@ -1,0 +1,120 @@
+.noticeBarInfo {
+    /*font-family: "Microsoft YaHei";*/
+    margin-top: 0.5em;
+    padding: 0.5em 1em;
+    width: 100%;
+    font-size: 0.8em;
+    line-height: 1.4em;
+    color: #666666;
+    /*background: #fefcec;*/
+    box-sizing: border-box;
+}
+
+.bankCardInput {
+    width: 100%;
+}
+
+.bankCardEdit {
+    /*width: 100%;*/
+    /*height: 16em;*/
+    /*background: #000;*/
+}
+
+.bankCardEditBG {
+    background: #303030;
+    border: 1px solid #726a57;
+    width: 96%;
+    height: 10em;
+    margin-top: 2em;
+    border-radius: 6px;
+}
+
+.bankCardEditBG .am-list-item.am-input-item {
+    height: auto;
+    padding: 0.5em 1em;
+}
+
+.bankCardEditBG .am-list-item .am-input-control input {
+    color: #FBE9B5;
+    background: rgba(0, 0, 0, 0);
+}
+
+.bankCardEditBG .am-list-item {
+    background-color: #303030;
+}
+
+.bankCardEdit .am-list-item .am-list-line {
+
+}
+
+.bankCardEdit .am-list-body::before {
+    height: 0 !important;
+}
+
+.bankCardEdit .am-list-line::after {
+    height: 0 !important;
+}
+
+.bankCardEdit .am-list-body::after {
+    height: 0 !important;
+}
+
+.bankCardEdit .am-list-body {
+    background: rgba(0, 0, 0, 0);
+}
+
+.bankCardEdit .am-button {
+    border-radius: 3em;
+}
+
+.bankCardEdit .am-button-small {
+    font-size: 1em;
+    height: 2.2em;
+    line-height: 2.4em;
+    padding: 0 4em;
+    background: #FBE9B5;
+    margin-top: 1.5em;
+
+}
+
+/*.bankCardEdit .am-list-item .am-input-clear {*/
+/*width: 1em;*/
+/*height: 1em;*/
+/*background-color: #a99c77;*/
+/*background-size: 1em auto;*/
+/*background-position: 0.1em 0.1em;*/
+/*}*/
+
+.bankCardP {
+    color: #FBE9B5;
+    padding: 0.5em 0.8em;
+    font-size: 1.4em;
+    margin: 1em 0 0 0;
+}
+
+.bankCardNumber {
+    color: #FBE9B5;
+    padding: 0 0.8em;
+    font-size: 1.4em;
+    margin: 0;
+}
+
+.bankCardUName {
+    color: #FBE9B5;
+    padding: 0.8em 1.2em;
+    font-size: 1em;
+    margin: 0;
+}
+
+.bankCardLogo{
+    width: 2.5em;
+    height: 2.5em;
+    border-radius: 50%;
+    background: #e7e7e7;
+    line-height: 2.5em;
+    text-align: center;
+    font-size: 1.2em;
+    margin-left: 1em;
+    display: inline-block;
+    margin-top: -1.2em;
+}

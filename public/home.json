@@ -1,0 +1,113 @@
+{
+  "success": "false",
+  "code": 1,
+  "error": "错误信息",
+  "data": {
+  "tab": [
+      {
+        "id": 1,
+        "name": "全部"
+      },
+      {
+        "id": 1,
+        "name": "推荐"
+      },
+      {
+        "id": 1,
+        "name": "全部"
+      },
+      {
+        "id": 1,
+        "name": "全部"
+      },
+      {
+        "id": 1,
+        "name": "全部"
+      },
+      {
+        "id": 1,
+        "name": "全部"
+      }
+    ],
+    "slide": [
+      {
+        "id": 1,
+        "alt": "slide1",
+        "name": "AiyWuByWklrrUDlFignR",
+        "link": "http://www.baidu.com"
+      },
+      {
+        "id": 2,
+        "alt": "slide2",
+        "name": "TekJlZRVCjLFexlOCuWn",
+        "link": "http://www.taobao.com"
+      },
+      {
+        "id": 1,
+        "alt": "slide3",
+        "name": "IJOtIlfsYdTyaDTRVrLI",
+        "link": "http://www.jd.com"
+      }
+    ],
+    "product": [
+      {
+        "img": "https://zos.alipayobjects.com/rmsportal/dKbkpPXKfvZzWCM.png",
+        "des": "5YSL圣罗兰纯正方管口红",
+        "tip": "Carousel圣诞限量版Carousel",
+        "money": "l320.00",
+        "num": "l1688"
+      },
+      {
+        "img": "Carouselhttps://zos.alipayobjects.com/rmsportal/XmwCzSeJiqpkuMB.pngCarousel",
+        "des": "Carousel6阿玛尼权力粉底液Carousel",
+        "tip": "Carousel油皮不脱妆不卡粉Carousel",
+        "money": "l580.00",
+        "num": "Carousel1236Carousel"
+      },
+      {
+        "img": "Carouselhttps://zos.alipayobjects.com/rmsportal/hfVtzEhPzTUewPm.pngCarousel",
+        "des": "Carousel7黛珂牛油果乳液紫苏Carousel",
+        "tip": "Carousel保湿滋养 改善粗糙痘痘Carousel",
+        "money": "l600.00",
+        "num": "l354"
+      },
+      {
+        "img": "Carouselhttps://zos.alipayobjects.com/rmsportal/dKbkpPXKfvZzWCM.pngCarousel",
+        "des": "Carousel8兰蔻小黑瓶精华肤底75mlCarousel",
+        "tip": "Carousel补水保湿 修复肌底Carousel",
+        "money": "1480.00",
+        "num": "l116"
+      }
+    ],
+    "product1": [
+      {
+        "img": "https://zos.alipayobjects.com/rmsportal/pngCarousel.png",
+        "des": "5YSL圣罗兰纯正方管口红",
+        "tip": "Carousel圣诞限量版Carousel",
+        "money": "l320.00",
+        "num": "l1688"
+      },
+      {
+        "img": "Carouselhttps://zos.alipayobjects.com/rmsportal/dKbkpPXKfvZzWCM.png",
+        "des": "Carousel6阿玛尼权力粉底液Carousel",
+        "tip": "Carousel油皮不脱妆不卡粉Carousel",
+        "money": "l580.00",
+        "num": "l1236"
+      },
+      {
+        "img": "Carouselhttps://zos.alipayobjects.com/rmsportal/hfVtzEhPzTUewPm.png",
+        "des": "Carousel7黛珂牛油果乳液紫苏Carousel",
+        "tip": "保湿滋养 改善粗糙痘痘",
+        "money": "l600.00",
+        "num": "l354"
+      },
+      {
+        "img": "Carouselhttps://zos.alipayobjects.com/rmsportal/dKbkpPXKfvZzWCM.png",
+        "des": "Carousel8兰蔻小黑瓶精华肤底75mlCarousel",
+        "tip": "Carousel补水保湿 修复肌底Carousel",
+        "money": "l1480.00",
+        "num": "116"
+      }
+    ]
+  }
+}

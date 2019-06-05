@@ -1,0 +1,203 @@
+.shopButton{
+    /*flex-basis:30%;*/
+    width: 8em;
+    background-color:#D81E06;
+    text-align:center;
+    color:white;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+/*tag标签*/
+.tag-container{
+    display: flex;
+    padding-top: 9px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tag-container > div {
+    /*margin-left: 9px;*/
+    margin-bottom: 9px;
+}
+
+.shopTabBar .am-badge-text {
+    margin: 0;
+    top: -9px;
+    width: 1.5em;
+    height: 1.5em;
+    line-height: 1.5em;
+    border-radius: 50%;
+    padding: 1px 0 0 0;
+    text-align: center;
+    font-size: 0.7em;
+    color: #ffffff;
+    background-color: #d81e06;
+    /*font-family: "Microsoft YaHei";*/
+}
+
+.shopTabBarTitle {
+    display: block;
+    padding: 0.45em 0;
+    margin: 0 0 1.6em 0;
+    font-size: 1.2em;
+    color: #d81e06;
+    line-height: 0;
+    font-weight: bold;
+}
+
+.shopModal .am-tag-active{
+    background-color: #d81e06;
+    color: #ffffff;
+    border: 1px solid #d81e06 !important;
+    border-radius: 2px;
+    font-size: 0.8em;
+    margin: 0 1em 1em 0;
+    height: 2.2em;
+    line-height: 2em;
+}
+
+.shopModal .am-tag-normal{
+    background-color: #fff;
+    color: #d81e06;
+    border: 1PX solid #d81e06 !important;
+    border-radius: 2px;
+    font-size: 0.8em;
+    margin: 0 1em 1em 0;
+    height: 2.2em;
+    line-height: 2em;
+}
+
+.shopModal .am-tag-disabled{
+    background-color: #cccccc;
+    color: #666666;
+    border: 1PX solid #cccccc !important;
+    border-radius: 2px;
+    font-size: 0.8em;
+    margin: 0 1em 1em 0;
+    height: 2.2em;
+    line-height: 2em;
+}
+
+.shopModal .am-stepper-handler,
+.shopModal .am-stepper-handler-up-inner,
+.shopModal .am-stepper-handler-down-inner{
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+}
+
+.shopModal .am-stepper-handler {
+    /* padding: 0.5em 0; */
+    height: 1.5em;
+    /* margin: 0 0 0 0.5em; */
+    font-size: 0.8em;
+    color: #000;
+    line-height: 1.5em;
+    /* padding: 0.1em 0; */
+}
+
+.shopModal .am-stepper-input-wrap{
+    height: 34px;
+    line-height: 34px;
+}
+
+.shopModal .am-stepper-input{
+    min-width: 50px;
+}
+
+
+
+.shopModal.am-modal-transparent .am-modal-content .am-modal-body{
+    padding: 0;
+}
+
+/*.shopModal .am-modal-button-group-v .am-modal-button{*/
+    /*position: relative;*/
+    /*border-top: 1PX solid #ddd;*/
+    /*box-sizing: border-box;*/
+    /*text-align: center;*/
+    /*text-decoration: none;*/
+    /*outline: none;*/
+    /*color: #ffffff;*/
+    /*font-size: 1em;*/
+    /*height: 47px;*/
+    /*line-height: 47px;*/
+    /*display: block;*/
+    /*width: auto;*/
+    /*overflow: hidden;*/
+    /*text-overflow: ellipsis;*/
+    /*white-space: nowrap;*/
+    /*background: #d81e06;*/
+/*}*/
+
+.shopModal.am-modal-transparent .am-modal-content{
+    border-radius: 0;
+}
+
+.shopModal .am-flexbox.am-flexbox-align-center{
+    width: 100%;
+}
+
+.shopModal .am-stepper.showNumber{
+    width: 106px;
+}
+
+.shopModal .am-stepper-input{
+    width: 40px;
+}
+
+.shopModal .am-tag-active::before{
+    border: 0!important;
+}
+
+.shopModal .tag-container{
+    /*padding-top: 0;*/
+    padding: 0 15px;
+
+}
+
+.shopModalBtn{
+    position: relative;
+    border-top: 1PX solid #ddd;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #ffffff;
+    font-size: 1em;
+    height: 47px;
+    line-height: 47px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    background: #d81e06;
+}
+
+.shopModalBtnG{
+    position: relative;
+    border-top: 1PX solid #ddd;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #666666!important;
+    font-size: 1em;
+    height: 47px;
+    line-height: 47px;
+    display: block;
+    width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    background: #cccccc!important;
+    opacity: 1!important;
+}
+
+.shopModal .am-button{
+    border-radius: 0;
+}

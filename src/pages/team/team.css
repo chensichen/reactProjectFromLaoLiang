@@ -1,0 +1,73 @@
+.team .am-list-item .am-list-line .am-list-content {
+    line-height: 2.5;
+}
+
+.team .am-accordion .am-accordion-item .am-accordion-header {
+    height: 3.5em;
+    line-height: 3.5em;
+}
+
+.team .am-accordion .am-accordion-item .am-accordion-header i {
+    top: 1.3em;
+}
+
+.team .am-list-item img {
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.team .am-list-line {
+    border-bottom: none !important;
+}
+
+.teamText {
+    width: 100%;
+    text-align: center;
+    margin-top: 12em;
+    font-size: 1.2em;
+    color: #666666;
+}
+
+.teamSecondImg {
+    margin: 0 1.5em 0 3em;
+}
+
+.team .am-list-body::before {
+    height: 0 !important;
+}
+
+.team .am-list-body::after {
+    height: 3px !important;
+    background: #f5f5f9 !important;
+}
+
+.teamNickname {
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+.teamcompanyName {
+    font-size: 1em;
+    line-height: 1.4em;
+    margin: 0;
+    color: #999999;
+}
+
+.teamstatusText {
+    font-size: 1em;
+    color: #008000;
+    padding: 0 1em;
+    line-height: 1.4em;
+}
+
+.teamstatusTextRed {
+    color: #d81e06;
+    padding: 0 1em;
+    line-height: 1.4em;
+}
+
+.team .am-list-item {
+    font-size: 1em;
+}

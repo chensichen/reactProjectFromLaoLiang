@@ -1,0 +1,143 @@
+body {
+    background-color: #fafafa;
+}
+
+.shopTitle {
+    background-color: white;
+    font-size: 0.8em;
+    line-height: 3em;
+    padding: 0 0.5em;
+    box-sizing: border-box;
+    height: 3em;
+    z-index: 999;
+}
+
+.shopTitleBar {
+    background-color: white;
+    font-size: 0.8em;
+    line-height: 3em;
+    display: flex;
+    flex-direction: row;
+}
+
+.shopTitleBar span {
+    padding-left: 0.8em;
+}
+
+.shopTitleBarButton {
+    flex-basis: 50%;
+    justify-content: right;
+    justify-items: right;
+    text-align: right;
+    padding-right: 0.8em;
+}
+
+.shopTitleBarButton button {
+    border: 1px #c9c9c9 solid;
+    font-size: 0.7em;
+    color: #333333;
+    background-color: white;
+    border-radius: 5px;
+    line-height: 1.5;
+}
+
+.clearBtn {
+    font-size: 1em;
+    height: 2em;
+    line-height: 1.9em;
+    border: 1px solid #d81e06 !important;
+    color: #d81e06;
+}
+
+.shopPaySuccess {
+    width: 100%;
+    padding: 1em 0;
+    background: #ffffff;
+}
+
+.shopPaySuccessIcon .am-icon-lg {
+    width: 5em;
+    height: 5em;
+}
+
+.shopPaySuccessState {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.shopPaySuccessJump {
+    font-size: 1em;
+    text-align: center;
+}
+
+.shopPaySecond {
+    font-size: 1.4em;
+    color: #d81e06;
+    font-weight: bold;
+    padding: 0 0.2em;
+}
+
+.shopPayConfirm {
+    text-decoration: underline;
+    color: #d81e06;
+}
+
+.shopListBody {
+    margin-top: 3em;
+}
+
+.am-list-item .am-list-line {
+    padding-right: 0;
+}
+
+.stepperInput input {
+    font-size: 0.8em !important;
+}
+
+.stepperInput .am-list-item.am-input-item {
+    height: 30px;
+}
+
+/*.stepperInput .am-list-item.am-input-item {*/
+    /*height: 44px;*/
+    /*padding-left: 0;*/
+/*}*/
+
+.stepperInput .am-list-item {
+    /* height: 2em; */
+    color: #666666;
+    min-height: 2em;
+    padding: 0
+}
+
+.stepperInput .am-stepper-input {
+    width: 100%
+}
+
+.clearBtnTrue {
+    font-size: 1em;
+    height: 2em;
+    line-height: 1.9em;
+    background-color: #cccccc;
+    color: #666666 !important;
+    border: 1px solid #cccccc !important;
+}
+
+.clearBtn.am-button::before{
+    border: none!important;
+}
+.stepperInput .am-list-item .am-input-control .fake-input-container .fake-input{
+    text-align: center;
+    font-size: 0.8em;
+}
+/*.stepperInput .am-list-item .am-input-control .fake-input-container .fake-input*/
+.stepperInput .am-stepper-input{
+    margin-top: 0em !important;
+    line-height: 30px;
+}
+
+/*.checkItem .am-stepper-input*/
+/*.stepperInput .am-list-item.am-input-item {*/
+    /*height: 44px;*/
+    /*padding-left: 0;*/
+/*}*/

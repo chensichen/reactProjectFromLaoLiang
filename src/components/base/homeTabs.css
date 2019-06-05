@@ -1,0 +1,12 @@
+.am-tabs-default-bar-tab-active{
+    color: #D81E06;
+}
+.am-tabs-default-bar-tab-active{
+    border-bottom-color: #D81E06;
+}
+.am-tabs-default-bar-underline {
+    position: absolute;
+    border: 1px #d81e06 solid;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}

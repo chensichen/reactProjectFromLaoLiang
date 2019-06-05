@@ -1,0 +1,57 @@
+.productList .am-list-body{
+    background: #ffffff;
+}
+.rowNum{
+    width: 15%;
+    height: 3.2em;
+    line-height: 3.2em;
+    font-size: 1.4em;
+    text-align: center;
+    color:#000000;
+}
+.productTitle{
+    width: 100%;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    -o-text-overflow:ellipsis;
+    -webkit-text-overflow:ellipsis;
+    -moz-text-overflow:ellipsis;
+    white-space:nowrap;
+}
+.productTap{
+    font-size: 0.8em;
+    color: #666666;
+    margin-bottom: 1.2em;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    -o-text-overflow:ellipsis;
+    -webkit-text-overflow:ellipsis;
+    -moz-text-overflow:ellipsis;
+    white-space:nowrap;
+}
+.productMoney{
+    font-size: 1.2em;
+    color: #d81e06;
+    font-weight: bold;
+    display: inline-block;
+}
+.productDetailNum{
+    font-size: 0.8em;
+    color:#666666;
+    padding-top: 0.4em;
+}
+.productShop{
+    width: 2em;
+    display: flex;
+    align-self: flex-end;
+}
+
+.productList .am-list-body{
+    border-bottom: 2px solid #f5f5f9 !important;
+}
+
+.productList .am-list-body::after{
+    height: 0!important;
+}

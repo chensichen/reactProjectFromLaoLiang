@@ -1,0 +1,27 @@
+.accountWidth{
+    padding: 0.5em;
+}
+
+.addressEditPage{
+    /*font-family: "Microsoft YaHei";*/
+}
+
+.addressEditPage .am-list-item{
+    width: 100%;
+}
+
+.addressEditPage .am-textarea-control textarea{
+    font-size: 1.2em;
+    line-height: 1.6em;
+}
+
+.addressEditPage .am-textarea-label.am-textarea-label-5{
+    width: 4em;
+    padding: 0 0.5em;
+    font-size: 1.2em;
+    color: #000000;
+}
+
+.addressNewPage .am-textarea-control textarea{
+    padding-top: 0.2em;
+}

@@ -1,0 +1,36 @@
+.brandTitle{
+    width: 100%;
+    line-height: 3em;
+    font-size: 1em;
+    text-align: center;
+    margin: 0;
+    color: black;
+    border-left: 4px solid transparent;
+    /*border-bottom: 1px solid #F2F2F2;*/
+}
+.brandTitleRed{
+    width: 100%;
+    color: red;
+    border-left: 4px solid red;
+    background: #ffffff;
+    line-height: 3em;
+    font-size: 1em;
+    text-align: center;
+    margin: 0;
+}
+
+.brandC .am-list-body::before{
+    height: 0!important;
+}
+
+.brandC {
+    background: #ffffff;
+}
+
+.brandC .am-list-body::after{
+    height: 0!important;
+}
+
+.brandC .am-list-body {
+    border-bottom: 2px solid #fafafa !important;
+}

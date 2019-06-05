@@ -1,0 +1,142 @@
+.accountOrderLine {
+    background: url('../../image/accountOrder/line.png') repeat 4px 5px;;
+    height: 3px;
+    margin: 0 0.5em;
+}
+
+.accountAddLeft {
+    flex-basis: 95%;
+    padding: 0.5em 0 0 0;
+}
+
+.accountWidth {
+    margin: 0.5em 0;
+    background-color: #ffffff;
+}
+
+.am-textarea-label {
+    color: #888888;
+}
+
+.am-list-item {
+    font-size: 0.8em;
+    padding-left: 0;
+}
+
+.accountAddLeftName {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-right: 1em;
+    line-height: 1.2em;
+}
+
+.accountOrderIcon {
+    padding: 0.5em 0 0.5em 0.1em;
+    margin-right: 0.5em;
+}
+
+.my-radio .am-radio {
+    margin: 0 !important;
+}
+
+.unfoldOrder {
+    width: 100%;
+    padding: 0.5em 0;
+    background: #ffffff;
+    border-top: 1px solid #e7e7e7;
+}
+
+.orderRisks .am-switch .checkbox:after {
+    height: 1.2em !important;
+    width: 1.2em !important;
+
+}
+
+.orderRisks .am-switch .checkbox:before {
+    width: 2.8em;
+    height: 1.2em;
+}
+
+.orderRisks {
+    position: relative;
+}
+
+.orderRisks .am-switch .checkbox {
+    width: 3em;
+    height: 1.45em;
+}
+
+.orderRisks .am-switch {
+    top: -0.2em;
+}
+
+.clearingForm.am-modal-transparent .am-modal-content {
+    border-radius: 0;
+    /*height: 4em;*/
+}
+
+.clearingForm .am-modal-button-group-v .am-modal-button {
+    background: #d81e06;
+    color: #ffffff;
+    font-size: 1em;
+}
+
+.clearingForm .am-tag-active {
+    background-color: #d81e06;
+    color: #ffffff;
+    border: 1PX solid #d81e06;
+    border-radius: 2px;
+    min-width: 6.5em;
+}
+
+.clearingForm .am-tag-active::before {
+    border: 1PX solid #d81e06 !important;
+}
+
+.clearingForm .am-tag-normal::before {
+    border: 1PX solid #d81e06 !important;
+}
+
+.clearingForm .am-tag-normal {
+    background-color: #ffffff;
+    color: #d81e06;
+    border: 1PX solid #d81e06;
+    border-radius: 2px;
+    min-width: 6.5em;
+}
+
+.clearingForm .am-textarea-control textarea {
+    font-size: 1.2em;
+}
+
+.clearingForm .tag-container > div {
+    margin: 0;
+}
+
+.clearingForm p {
+    margin: 0.6em 0;
+    color: #000000;
+}
+
+.clearingForm .am-textarea-label {
+    font-size: 1.2em;
+}
+
+.clearingForm .am-list-item {
+    width: 72%;
+    margin-left: 0.2em;
+}
+
+.clearingForm .am-textarea-control {
+    padding-top: 0.6em;
+    padding-bottom: 0;
+}
+
+.clearingForm .am-modal-header {
+    padding: 0;
+}
+
+.clearingForm .am-tag{
+    height: 1.8em;
+    line-height: 1.9em;
+}

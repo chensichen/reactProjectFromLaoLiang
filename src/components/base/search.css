@@ -1,0 +1,139 @@
+/*!*顶部搜索*!*/
+/*.search{*/
+    /*box-shadow: 0px 1px 3px #ececec;*/
+/*}*/
+
+/*.search .am-search {*/
+    /*height: 46px;*/
+    /*background-color: #ffffff;*/
+/*}*/
+
+/*.search .am-search-input input[type="search"] {*/
+    /*opacity: 1;*/
+    /*border: 1px solid #e7e7e7;*/
+/*}*/
+
+/*.search .am-search-input .am-search-synthetic-ph {*/
+    /*text-align: left;*/
+    /*padding-left: 15px;*/
+    /*text-indent: 0em;*/
+/*}*/
+
+/*.search .am-search-input .am-search-synthetic-ph-placeholder,*/
+/*.search .am-search-cancel {*/
+    /*font-size: 12px;*/
+/*}*/
+
+/*.search .am-search-synthetic-ph-container{*/
+    /*width: 14em;*/
+    /*display: inline-block;*/
+/*}*/
+
+
+/*.qaName {*/
+    /*width: 26%;*/
+    /*height: 9em;*/
+    /*background: #ffffff;*/
+    /*padding: 2em 0;*/
+    /*box-sizing: border-box;*/
+/*}*/
+
+/*.qaIcon {*/
+    /*width: 3.2em;*/
+/*}*/
+
+/*.qaNameText {*/
+    /*line-height: 2em;*/
+    /*font-size: 0.8em;*/
+/*}*/
+
+/*.qaNameList {*/
+    /*width: 73%;*/
+    /*height: 9em;*/
+    /*background: #ffffff;*/
+/*}*/
+
+/*.am-list-item .am-list-line .am-list-content {*/
+    /*line-height: 2.4;*/
+/*}*/
+
+/*.qaRelation {*/
+    /*background: #ffffff;*/
+    /*width: 100%;*/
+    /*line-height: 2.4em;*/
+    /*font-size: 0.8em;*/
+/*}*/
+
+/*.am-list-item .am-list-line .am-list-content.answer {*/
+    /*color: #666666;*/
+/*}*/
+
+
+/*.history .am-list-item img{*/
+    /*width: 1.2em;*/
+    /*height: 1.2em;*/
+    /*margin-right: 0.5em;*/
+/*}*/
+
+/*.empty{*/
+    /*color: #999999;*/
+/*}*/
+
+/*.historyTag{*/
+    /*background: #ffffff;*/
+    /*padding: 0.4em 1em;*/
+    /*margin: 0 0.5em 0.5em 0.5em;*/
+    /*border-radius: 4px;*/
+    /*!*border: 1px solid #cccccc;*!*/
+/*}*/
+
+/*.Search .am-list-line{*/
+    /*border-bottom: none;*/
+/*}*/
+
+
+/*.QAListsShow{*/
+    /*display: block;*/
+/*}*/
+
+/*.QAListsHide{*/
+    /*display:none;*/
+/*}*/
+
+/*.qaNameList .am-list-item .am-list-line{*/
+    /*padding-left: 1em;*/
+    /*padding-right: 0;*/
+/*}*/
+
+/*.QADetails .am-list-item .am-list-line .am-list-content{*/
+    /*padding: 1em;*/
+    /*line-height: 1.5em;*/
+/*}*/
+
+/*.QAList .am-list-content{*/
+    /*padding: 1em;*/
+/*}*/
+
+/*.QADetails .am-list-item{*/
+    /*padding: 0;*/
+/*}*/
+
+/*.QADetails .am-list-item .am-list-line{*/
+    /*padding-right: 0;*/
+/*}*/
+
+/*.history .am-list-item .am-list-line{*/
+    /*padding-right: 0;*/
+/*}*/
+
+/*.Search .am-list-item .am-list-line .am-list-content{*/
+    /*padding-left: 1em;*/
+/*}*/
+
+/*.noData{*/
+    /*width: 100%;*/
+    /*text-align: center;*/
+    /*margin-top: 12em;*/
+    /*font-size: 1.2em;*/
+    /*color: #666666;*/
+/*}*/

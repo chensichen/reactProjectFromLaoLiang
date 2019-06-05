@@ -1,0 +1,62 @@
+.brandPage{
+    /*font-family: "Microsoft YaHei";*/
+}
+
+.single-foo-menu {
+    position: absolute;
+    z-index: 90 !important;
+    width: 8em;
+    font-size: 0.8em;
+}
+
+.single-menu-active .single-top-nav-bar{
+    z-index: 90;
+}
+
+.single-top-nav-bar {
+    position: relative;
+    background-color: #008AE6;
+    color: #FFF;
+}
+.am-navbar-title {
+    color: #FFF!important;
+}
+.menu-mask {
+    position: absolute;
+    top: 0;
+    width: 8em;
+    height: 100%;
+    background-color: #000;
+    opacity: 0.4;
+    z-index: 89;
+}
+
+.am-list-item .am-list-line .am-list-content{
+    line-height: 1em;
+}
+
+.brandListClass{
+    width: 74%;
+    height: calc(93vh);
+    background: #ffffff;
+    margin-top: 0;
+    padding-top: 2em;
+    box-sizing: border-box;
+}
+
+.BrandCateLeft{
+    width: 26%;
+    height: calc(93vh);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    display: block;
+    box-sizing: border-box;
+}
+
+.BrandList{
+    width: 74%;
+    height: calc(93vh);
+    background: rgb(255, 255, 255);
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

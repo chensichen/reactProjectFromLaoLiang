@@ -1,0 +1,30 @@
+.companyName {
+    width: 20%;
+    padding: 0 1em;
+}
+
+.companyText {
+    color: #999999;
+}
+
+.am-list-line {
+    border-bottom: none !important;
+}
+
+.signInfo {
+    width: 100%;
+    height: calc(96vh);
+    background: #f5f5f9;
+}
+
+.signInfo .am-list-item {
+    height: 3.6em;
+}
+
+.signInfo .am-list-item .am-list-line .am-list-content {
+    font-size: 1.2em;
+}
+
+.signInfo .am-list-item .am-list-line .am-list-content {
+    line-height: 1.4em;
+}

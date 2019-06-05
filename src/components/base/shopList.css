@@ -1,0 +1,36 @@
+
+.am-list .am-list-item.am-checkbox-item .am-list-thumb .am-checkbox-inner{
+    top: 100%;
+}
+.am-checkbox.am-checkbox-checked .am-checkbox-inner{
+    border-color: #D81E06;
+    background: #D81E06;
+}
+
+
+.checkItem .am-stepper-handler, .am-stepper-handler-up-inner,
+.checkItem .am-stepper-handler-down-inner{
+    width: 2em;
+    height: 1em;
+    line-height: 0.9em;
+    font-size: 1em;
+}
+
+.checkItem .am-stepper-input{
+    font-size: 1em;
+    line-height: 2em;
+    margin-top: -0.4em;
+
+}
+
+.checkItem .am-icon-xxs{
+    width: 0.5em;
+    height: 0.5em;
+}
+
+.checkItem .am-checkbox.am-checkbox-disabled{
+    opacity: 1;
+    background: #dddddd;
+    border-radius: 50%;
+    border: 1px solid #cccccc;
+}

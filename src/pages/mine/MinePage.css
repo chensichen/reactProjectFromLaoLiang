@@ -1,0 +1,140 @@
+/*.mineInformation {*/
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    /*align-items: center;*/
+    /*width: 96%;*/
+    /*height: 7em;*/
+    /*border-radius: 5px;*/
+    /*margin: 5px auto;*/
+    /*background: -webkit-linear-gradient(left, #ef4742, #fb825c); !* Safari 5.1 - 6.0 *!*/
+    /*background: -o-linear-gradient(right, #ef4742, #fb825c); !* Opera 11.1 - 12.0 *!*/
+    /*background: -moz-linear-gradient(right, #ef4742, #fb825c); !* Firefox 3.6 - 15 *!*/
+/*}*/
+
+.mineInformation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 96%;
+    height: 6em;
+    /* color: #333333 !important; */
+    border-radius: 10px 10px 0 0;
+    background: #e7e7e7;
+    margin: 0.5em auto 0;
+    /* background: -webkit-linear-gradient(left, #ef4742, #fb825c); */
+    background: -moz-linear-gradient(right, #ef4742, #fb825c);
+}
+
+.mineInformationLeft {
+    /*flex-direction:column;*/
+    /*float: left;*/
+    /*padding: 35px 25px;*/
+}
+
+.mineInformationHeader {
+    flex-direction: column;
+    /*width: calc(8vh);*/
+    width: 3.8em;
+    /*height: 60px;*/
+    border-radius: 50%;
+    margin: 0 1em 0 1em;
+}
+
+.mineInformationRight {
+    margin-top: -0.4em;
+    color: #333333;
+}
+
+.commissionAccount .am-card-body,
+.myOrder .am-card-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px 0px;
+}
+
+.commissionAccount .am-card-header,
+.myOrder .am-card-header {
+    font-size: 1em;
+}
+
+.commissionAccount .am-card-body div {
+    width: 30%;
+    text-align: center;
+}
+
+.myOrder .am-card-body > div {
+    width: 25%;
+    text-align: center;
+}
+
+.commissionAccount .am-card-body div p {
+    font-weight: bold;
+}
+
+.commissionAccount .am-card-body span {
+    font-size: 0.8em;
+    color: #000;
+}
+
+.myOrder .am-card-body span {
+    font-size: 0.8em;
+    color: #000;
+}
+
+.myOrder img {
+    width: 1.4em;
+    padding: 0.6em 0 0.2em 0;
+}
+
+.myService .am-card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.myService .myServiceIcon {
+    width: 100% !important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.myService .myServiceIcon > div {
+    width: 25%;
+    margin-bottom: 0.5em;
+}
+
+.myService img {
+    width: 1.2em;
+    padding: 0.6em 0 0.2em 0;
+}
+
+.mineHeader{
+    font-weight: bold;
+}
+
+.mineUser{
+    margin: 0;
+    padding: 0.5em;
+}
+
+.productList .am-list-body::before{
+    height: 0!important;
+}
+
+.Mine .am-card-header{
+    padding: 0.5em 0.65em;
+}
+
+/*.commissionAccount .am-card:not(.am-card-full) {*/
+    /*border-radius: 0;*/
+/*}*/
+
+.Mine .am-card:not(.am-card-full)::before{
+    border-radius: 0 !important;
+}
+
+.Mine:not([data-scale]) .am-card:not(.am-card-full)::before{
+    border: none !important;
+}

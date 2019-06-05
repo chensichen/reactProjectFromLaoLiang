@@ -1,0 +1,23 @@
+.ewmCode{
+    padding-top: 3em;
+}
+
+.ewmCodeBG{
+    width: 85%;
+    height: 32em;
+    background: #ffffff;
+    border:1px solid #cccccc;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px #cccccc;
+    margin: 0 auto;
+}
+
+.ewmCodeImg{
+    width: 3.5em;
+    height: 3.5em;
+    margin-right: 1.5em;
+    border-radius: 50%;
+
+
+    /*borderRadius:'50%', width:'3.5em',height:'3.5em', margin:'0 1.5em 0 0em'*/
+}

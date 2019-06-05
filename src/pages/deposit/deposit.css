@@ -1,0 +1,60 @@
+.depositBg {
+    width: 100%;
+    padding: 0.5em;
+    box-sizing: border-box;
+    /*font-size: 0.8em;*/
+    line-height: 1.8em;
+    border-bottom: 1px dashed #cccccc;
+    /*font-family: "Microsoft YaHei";*/
+    background: #ffffff;
+}
+
+.depositState {
+    font-weight: bold;
+}
+
+.depositMoney {
+    font-weight: bold;
+    color: #666666;
+}
+
+.depositRemark {
+    color: #999999;
+}
+
+.depositRed {
+    color: #D81E06;
+}
+
+.depositG {
+    color: #666666;
+}
+
+.depositC {
+    color: #008000;
+}
+
+.depositListClass {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 2em;
+    font-size: 1.2em;
+    color: #666666;
+    background: #ffffff;
+}
+.shopListClass {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 2em;
+    font-size: 1.2em;
+    color: #666666;
+    /*background: #ffffff;*/
+}
+
+.whiteBg {
+    width: 100%;
+    height: calc(100vh);
+    background: #ffffff;
+}

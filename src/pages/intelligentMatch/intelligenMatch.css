@@ -1,0 +1,132 @@
+.intelligenMatch{
+    width: 100%;
+    height: 12.8em;
+    background: #f3eddd;
+    /*background: #ffffff;*/
+    /*margin-top: 0.5em;*/
+    padding: 0 1em;
+    box-sizing: border-box;
+    /*background: -webkit-linear-gradient(left, #ef4742, #fb825c); !* Safari 5.1 - 6.0 *!*/
+    /*background: -o-linear-gradient(right, #ef4742, #fb825c); !* Opera 11.1 - 12.0 *!*/
+    /*background: -moz-linear-gradient(right, #ef4742, #fb825c); !* Firefox 3.6 - 15 *!*/
+}
+
+.intelligenMatchTag{
+    /*color: #ffffff;*/
+    color: #c3ae80;
+    /*color: #999999;*/
+    height: 5em;
+    line-height: 1.4em;
+    font-size: 0.8em;
+}
+
+.intelligenMatchInput{
+    position: relative;
+    margin-top: 1em;
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+    height: 7.5em;
+    background: #ffffff;
+}
+
+.intelligenMatchInput .am-button{
+    /*border-radius: 3em;*/
+    width: 100%;
+
+}
+
+.intelligenMatchInput .am-button-small{
+    position: absolute !important;
+    bottom: 0;
+    font-size: 1em;
+    height: 2.4em;
+    line-height: 2.4em;
+    padding: 0 4em;
+    background: #c3ae80;
+    border-radius: 0;
+    /*margin-top: 1em;*/
+    /*color:#666666;*/
+}
+
+.intelligenMatchInput .am-list-item .am-input-clear {
+    width: 1em;
+    height: 1em;
+    background-color: #a99c77;
+    background-size: 1em auto;
+    background-position: 0.1em 0.1em;
+}
+
+.intelligenMatchInput .am-list-body {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.intelligenMatchInput .am-list-body::before{
+    height: 0!important;
+    /*border-top: 1px solid #cccccc!important;*/
+}
+
+/*.intelligenMatchInput .am-list-body::after{*/
+    /*border-bottom: 1px solid #cccccc!important;*/
+/*}*/
+
+.intelligenMatchOrder{
+    width: 100%;
+    height: 3em;
+    background: #ffffff;
+    padding: 0 1em;
+    box-sizing: border-box;
+    font-size: 0.8em;
+}
+
+.intelligenMatchOrder div{
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #666666;
+}
+
+.intelligenMatchHeader{
+    width: 100%;
+    height: 3em;
+    line-height: 3em;
+    background: #ffffff;
+    padding: 0 1em;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.intelligenRed{
+    color: #D81E06!important;
+}
+
+.intelligenNum{
+    /*font-weight: bold;*/
+}
+
+.intelligenMatchMoney{
+    font-size: 0.8em;
+    /*line-height: 1.2em;*/
+    color: #666666;
+    padding-top: 0.8em;
+}
+
+.intelligenGreen{
+    color: #008000!important;
+}
+
+.intelligenMatchTag p{
+    margin: 0;
+    /*font-size: 0.9em;*/
+}
+
+.baseBgF .am-whitespace.am-whitespace-xs{
+    height: 1px;
+}
+
+.intelligenMatchInput .am-button::before{
+    border: none !important;
+}
+
+.intelligenMatchInput .am-list-body::after{
+    /*height: 0!important;*/
+}

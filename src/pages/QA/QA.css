@@ -1,0 +1,201 @@
+.QAPage {
+    width: 100%;
+    height: calc(100vh);
+    background: #f5f5f9;
+}
+
+.QAList,
+.QADetails,
+.history,
+.SearchBody {
+    width: 100%;
+    height: calc(100vh);
+    background: #ffffff;
+}
+
+.history .am-list-item {
+    font-size: 1.2em;
+}
+
+/*顶部搜索*/
+.search {
+    border-bottom: 1px solid #ececec;
+}
+
+.search .am-search {
+    height: 2.8em;
+    background-color: #ffffff;
+}
+
+.search .am-search-input {
+    height: 2em;
+    border-radius: 0 !important;
+    border: 1px solid #e7e7e7 !important;
+}
+
+.search .am-search-input input[type="search"] {
+    font-size: 0.8em;
+    opacity: 1;
+    border: 0 solid #e7e7e7 !important;
+}
+
+.search .am-search-input .am-search-synthetic-ph {
+    text-align: left;
+    padding-left: 15px;
+    text-indent: 0;
+}
+
+.search .am-search-input .am-search-synthetic-ph-placeholder,
+.search .am-search-cancel {
+    font-size: 0.8em;
+}
+
+.search .am-search-cancel{
+    color: #d81e06;
+}
+
+.search .am-search-synthetic-ph-container {
+    width: 14em;
+    display: inline-block;
+}
+
+.QAPage .qaName {
+    width: 26.5%;
+    height: 9em;
+    background: #ffffff;
+    padding: 2em 0;
+    box-sizing: border-box;
+}
+
+.qaIcon {
+    width: 3.2em;
+}
+
+.qaNameTextLeft {
+    line-height: 2em;
+    font-size: 1em !important;
+}
+
+.qaNameList {
+    width: 73%;
+    height: 9em;
+    background: #ffffff;
+}
+
+.am-list-item .am-list-line .am-list-content {
+    line-height: 2.4;
+}
+
+.QAPage .qaRelation {
+    background: #ffffff;
+    width: 100%;
+    line-height: 3em;
+    font-size: 0.9em;
+}
+
+.am-list-item .am-list-line .am-list-content.answer {
+    color: #666666;
+}
+
+.qaNameListText {
+    font-size: 1em !important;
+}
+
+.history .am-list-item img {
+    width: 1.2em;
+    height: 1.2em;
+    margin-right: 0.5em;
+}
+
+.empty {
+    color: #999999;
+}
+
+.historyTag {
+    background: #ececec !important;
+    padding: 0.4em 1.2em !important;
+
+    margin: 0 0.5em 0.5em 0.5em !important;
+    border-radius: 1em !important;
+}
+
+.Search .am-list-line {
+    border-bottom: none;
+}
+
+.QAListsShow {
+    display: block;
+}
+
+.QAListsHide {
+    display: none;
+}
+
+.qaNameList .am-list-item .am-list-line {
+    padding-left: 1em;
+    padding-right: 0;
+}
+
+.QADetails .am-list-item .am-list-line .am-list-content {
+    line-height: 2em !important;
+}
+
+.QAList .am-list-content {
+    padding: 1em;
+}
+
+.QADetails .am-list-item {
+    padding: 0 0.5em;
+}
+
+.QADetails .am-list-item .am-list-line {
+    padding-right: 0;
+}
+
+.history .am-list-item .am-list-line {
+    padding-right: 0;
+}
+
+.SearchBody .am-list-item .am-list-line .am-list-content {
+    padding-left: 1em;
+}
+
+.noData {
+    width: 100%;
+    text-align: center;
+    margin-top: 12em;
+    font-size: 1.2em;
+    color: #666666;
+}
+
+.qaNameList .am-list-item .am-list-line .am-list-content {
+    font-size: 0.9em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.qaNameList .am-list-item:not(:last-child) .am-list-line::after {
+    height: 0px !important;
+    /*background-color: #f5f5f9;*/
+}
+
+.qaNameList .am-list-item {
+    height: 2.9em;
+    border-bottom: 0.2em solid #f5f5f9;
+}
+
+.QAList .am-list-item,
+.SearchBody .am-list-item {
+    font-size: 1.2em;
+    height: 2.8em;
+    border-bottom: 0.1em solid #f5f5f9;
+}
+
+.QAList .am-list-item:not(:last-child) .am-list-line::after,
+.SearchBody .am-list-item:not(:last-child) .am-list-line::after {
+    height: 0 !important;
+}
+
+.QADetails .am-list-item {
+    font-size: 1.2em;
+}

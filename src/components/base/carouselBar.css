@@ -1,0 +1,10 @@
+.am-wingblank.am-wingblank-lg{
+    margin-left: 0;
+    margin-right: 0;
+}
+.am-tabs-default-bar-top .am-tabs-default-bar-nextpage, .am-tabs-default-bar-bottom .am-tabs-default-bar-nextpage {
+    background: none;
+}
+.am-tabs-default-bar-top .am-tabs-default-bar-prevpage, .am-tabs-default-bar-bottom .am-tabs-default-bar-prevpage{
+    background: none;
+}

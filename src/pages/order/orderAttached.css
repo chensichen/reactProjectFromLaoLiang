@@ -1,0 +1,96 @@
+/*.orderFormStatus{*/
+    /*width: 100%;*/
+    /*padding: 1.2em 0.8em;*/
+    /*background: #D81E06;*/
+    /*color: #ffffff;*/
+    /*box-sizing: border-box;*/
+/*}*/
+
+/*.orderFormPrimary{*/
+    /*box-sizing: border-box;*/
+    /*width: 100%;*/
+    /*padding: 0.8em;*/
+    /*background: #ffffff;*/
+/*}*/
+
+/*.orderPic{*/
+    /*display: inline-block;*/
+    /*width: 0.3em;*/
+    /*height: 1em;*/
+    /*background: #D81E06;*/
+    /*margin-right: 0.4em;*/
+/*}*/
+
+/*.orderPicName{*/
+    /*font-size: 1.2em;*/
+/*}*/
+
+/*.orderFormLeft,*/
+/*.orderFormRight{*/
+    /*padding-top: 1em;*/
+    /*!*font-size: 0.8em;*!*/
+/*}*/
+
+/*.orderFormRight{*/
+    /*color:#999999;*/
+    /*padding-left: 2em;*/
+/*}*/
+
+/*.orderFont{*/
+    /*font-size: 1.2em;*/
+    /*font-weight: bold;*/
+    /*color: #D81E06;*/
+/*}*/
+
+/*.orderDeliveryStatus{*/
+    /*background: #ffffff;*/
+    /*padding: 0.5em;*/
+/*}*/
+
+/*.locationIcon{*/
+    /*width: 1.4em;*/
+    /*height: 1.4em;*/
+    /*padding: 0 1em;*/
+/*}*/
+
+/*.orderDelivery p{*/
+    /*margin: 0.5em 0;*/
+/*}*/
+
+/*.orderDeliveryInfo{*/
+    /*color:#169BD5;*/
+/*}*/
+
+/*.orderDeliveryTime{*/
+    /*font-size: 0.8em;*/
+    /*color:#999999;*/
+/*}*/
+
+/*.orderDeliveryName{*/
+    /*font-size: 0.8em;*/
+    /*margin-right: 0.8em;*/
+/*}*/
+
+/*.orderMainGname {*/
+    /*overflow: hidden;*/
+    /*text-overflow: ellipsis;*/
+    /*-o-text-overflow: ellipsis;*/
+    /*white-space: nowrap;*/
+    /*margin-bottom: 0.5em;*/
+    /*font-weight: bold;*/
+/*}*/
+
+/*.orderMainGoods {*/
+    /*width: 60%;*/
+    /*height: 6em;*/
+    /*position: relative;*/
+/*}*/
+
+/*.orderMainPrice {*/
+    /*position: absolute;*/
+    /*bottom: 0em;*/
+    /*font-size: 1.2em;*/
+    /*color: #D81E06;*/
+    /*font-weight: bold;*/
+    /*display: inline-block;*/
+/*}*/
